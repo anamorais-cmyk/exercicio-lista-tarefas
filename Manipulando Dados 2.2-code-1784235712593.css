@@ -1,0 +1,5 @@
+.fixed-form {
+    position: fixed; top: 0; width: 100%; background: white; padding: 10px; border-bottom: 1px solid #ccc;
+}
+main { margin-top: 100px; padding: 20px; }
+article { margin-bottom: 20px; border: 1px solid #eee; padding: 10px; }
