@@ -1,0 +1,4 @@
+.container { font-family: sans-serif; max-width: 400px; margin: 20px auto; }
+.concluida { text-decoration: line-through; color: gray; font-style: italic; }
+ul { list-style: none; padding: 0; }
+li { margin: 10px 0; display: flex; align-items: center; gap: 10px; }
